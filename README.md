@@ -1,7 +1,3 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nsouthomas/nsouthomas/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">"Olá! Sou Pedro Thomas, iniciante apaixonado por programação. Atualmente mergulhando no mundo de Python, Django, React, HTML, CSS e JavaScript. Sempre em busca de aprender e crescer!"</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
