@@ -1,4 +1,4 @@
-<p align="center">"Olá! Sou Pedro Thomas, iniciante apaixonado por programação. Atualmente mergulhando no mundo de Python, Django, React, HTML, CSS e JavaScript. Sempre em busca de aprender e crescer!"</p>&nbsp;
+<p align="center">"Olá! Sou Pedro Thomas, iniciante apaixonado por programação. Atualmente mergulhando no mundo de Python, Django, Bootstrap, HTML, CSS e JavaScript. Sempre em busca de aprender e crescer!"</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedro-thomas&theme=radical&mode=weekly" />
